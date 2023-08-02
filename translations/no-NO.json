@@ -13,11 +13,11 @@
         "Help": "Hjelp",
         "IdentifyPoint": "",
         "IdentifyRegion": "Identifiser med område",
-        "LayerCatalog": "",
+        "LayerCatalog": "Lagkatalog",
         "LayerTree": "Lag & tegnforklaring",
         "Login": "Logg inn",
         "Logout": "Logg ut",
-        "MapLegend": "",
+        "MapLegend": "Tegnforklaring",
         "Measure": "Mål",
         "MeasureLineString": "Måle en linje",
         "MeasurePolygon": "Måle en polygon",
@@ -28,9 +28,9 @@
         "Share": "Del lenke",
         "ThemeSwitcher": "Tema",
         "Tools": "Kartverktøy",
-        "Bookmark": "",
+        "Bookmark": "Bokmerker",
         "TimeManager": "",
-        "Settings": ""
+        "Settings": "Innstillinger"
       }
     },
     "attribtable": {
@@ -64,7 +64,7 @@
       "lastUpdate": "",
       "manage": "",
       "nobookmarks": "",
-      "notloggedin": "",
+      "notloggedin": "Du må være pålogget for å lagre bokmerker",
       "open": "",
       "openTab": "",
       "remove": "",
@@ -86,23 +86,23 @@
       "clickonmap": "",
       "loaderror": "",
       "loading": "",
-      "login": "",
+      "login": "Login",
       "scalehint": "",
       "title": ""
     },
     "dxfexport": {
-      "layers": "",
+      "layers": "Lag",
       "selectinfo": "Tegn et rektangel rundt området som skal eksporteres...",
       "symbologyscale": "Symbolskala:"
     },
     "editing": {
-      "add": "",
-      "attrtable": "",
+      "add": "Legg til",
+      "attrtable": "Tabell",
       "canceldelete": "Ikke slett",
       "clearpicture": "",
       "commit": "Bekreft",
       "commitfailed": "",
-      "create": "",
+      "create": "Opprett",
       "delete": "Slett",
       "discard": "Forkast",
       "draw": "Tegn",
@@ -113,15 +113,15 @@
       "minimize": "Minimer",
       "nocompatpick": "",
       "noeditablelayers": "Ingen redigerbare lag",
-      "paint": "",
+      "paint": "Endre",
       "pick": "Velg",
       "pickdrawfeature": "",
       "reallydelete": "Virkelig slette",
       "relationcommitfailed": "",
       "select": "Velg",
-      "selectedpicture": "",
-      "takepicture": "",
-      "unsavedchanged": ""
+      "selectedpicture": "Valgt bilde",
+      "takepicture": "Ta bilde",
+      "unsavedchanged": "Det er ulagrede endringer. Vil du forlate siden likevel?"
     },
     "featureform": {
       "feature": "",
@@ -130,20 +130,20 @@
       "title": ""
     },
     "fileselector": {
-      "files": "",
+      "files": "filer",
       "placeholder": "Velg fil..."
     },
     "heightprofile": {
       "asl": "m.o.h.",
       "distance": "Avstand",
-      "export": "",
+      "export": "Eksporter profil",
       "height": "Høyde",
       "loading": "Beregner høydeprofil..."
     },
     "identify": {
-      "clipboard": "",
+      "clipboard": "Kopier til utklippstavle",
       "export": "Eksporter",
-      "exportformat": "",
+      "exportformat": "Eksportformat:",
       "featureReport": "Objektrapport",
       "link": "Lenke",
       "noattributes": "Ingen attributt",
@@ -171,10 +171,10 @@
       "clickhelpPoint": "",
       "clickhelpPolygon": "Tegn et polygon rundt objektene som skal identifieres",
       "clickhelpRadius": "",
-      "radius": ""
+      "radius": "Radius"
     },
     "layercatalog": {
-      "windowtitle": ""
+      "windowtitle": "Lagkatalog"
     },
     "layerinfo": {
       "abstract": "Oppsummering",
@@ -195,13 +195,13 @@
       "printlegend": "Skriv ut tegnforklaring",
       "separator": "Separator",
       "separatortooltip": "Legg til separator",
-      "transparency": "",
+      "transparency": "Gjennomsiktighet",
       "visiblefilter": "Filtrer usynlige lag",
       "zoomtolayer": "Zoom til lag"
     },
     "linkfeatureform": {
-      "cancel": "",
-      "close": "",
+      "cancel": "Avbryt",
+      "close": "Lukk",
       "drawhint": "",
       "pickhint": ""
     },
@@ -219,7 +219,7 @@
     },
     "map": {
       "loading": "Laster inn...",
-      "resetrotation": ""
+      "resetrotation": "Resett rotasjon"
     },
     "mapinfotooltip": {
       "elevation": "Høyde",
@@ -236,16 +236,16 @@
       "bearingLabel": "Orientering",
       "imperial": "",
       "lengthLabel": "Lengde",
-      "metric": "",
+      "metric": "Metrisk",
       "pointLabel": "Posisjon"
     },
     "navbar": {
-      "perpage": ""
+      "perpage": "per side"
     },
     "newspopup": {
-      "dialogclose": "",
-      "dontshowagain": "",
-      "title": ""
+      "dialogclose": "Lukk",
+      "dontshowagain": "Ikke vis igjen",
+      "title": "Nyheter"
     },
     "numericinput": {
       "angle": "",
@@ -293,7 +293,7 @@
       "bufferlayer": "Mållag",
       "bufferlayername": "Buffer",
       "bufferselectfeature": "Velg et objekt fra buffer",
-      "circle": "",
+      "circle": "Sirkel",
       "delete": "Slett",
       "draw": "Tegn",
       "edit": "Rediger",
@@ -307,9 +307,9 @@
       "pick": "Velg",
       "point": "Punkt",
       "polygon": "Polygon",
-      "rectangle": "",
+      "rectangle": "rektangel",
       "size": "Størrelse",
-      "square": "",
+      "square": "Kvadrat",
       "text": "Tekst",
       "transform": "",
       "width": "Bredde"
@@ -395,8 +395,8 @@
     "settings": {
       "colorscheme": "",
       "confirmlang": "",
-      "language": "",
-      "systemlang": ""
+      "language": "Språk",
+      "systemlang": "Systemspråk"
     },
     "share": {
       "QRCodeLinkTitle": "QR kode",
@@ -463,17 +463,17 @@
       "toggle": "",
       "unit": {
         "century": "",
-        "days": "",
+        "days": "dager",
         "decade": "",
-        "hours": "",
-        "milliseconds": "",
-        "minutes": "",
-        "months": "",
-        "seconds": "",
-        "years": ""
+        "hours": "timer",
+        "milliseconds": "millisekund",
+        "minutes": "minutter",
+        "months": "måneder",
+        "seconds": "sekunder",
+        "years": "år"
       },
-      "zoomin": "",
-      "zoomout": ""
+      "zoomin": "Zoom inn",
+      "zoomout": "Zoom ut"
     },
     "tooltip": {
       "background": "Bytt bakgrunn",
@@ -484,7 +484,7 @@
       "zoomout": "Zoom ut"
     },
     "vectorlayerpicker": {
-      "none": "",
+      "none": "Ingen",
       "prompt": ""
     },
     "window": {
